@@ -72,6 +72,10 @@
     margin: 2px;
 }
 
+p {
+    max-width: 300px;
+}
+
 @media (max-width: 500px) {
     .toggle-button {
         display: flex;
